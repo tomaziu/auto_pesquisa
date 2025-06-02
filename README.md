@@ -50,6 +50,16 @@ graph TD
     D --> E[Executar Pesquisas]
     E --> F[Finalizar/Interromper]
 ```
+## 🤝 Como Contribuir
+
+Contribuições são extremamente bem-vindas! Seguimos um fluxo simples:
+
+1. **Faça um Fork**  
+   Clique no botão `Fork` no canto superior direito desta página
+
+2. **Crie sua Branch**  
+   ```bash
+   git checkout -b feature/sua-feature-incrivel
 
 ## Licença
 Distribuído sob licença MIT. Veja LICENSE para detalhes.
