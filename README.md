@@ -29,6 +29,8 @@ pip install -r requirements.txt
 # 📝 Descrição Detalhada do Software Auto Pesquisa
 
 ## 🖥️ **Visão Geral da Interface**
+![Captura de tela 2025-06-02 125036](https://github.com/user-attachments/assets/0850f6f0-2d3f-426e-971f-658370fd2d20)
+
 Aplicação desktop Python para automação de pesquisas no navegador com interface Tkinter intuitiva e responsiva.
 
 ## 🎯 **Principais Funcionalidades**
@@ -50,6 +52,11 @@ graph TD
     D --> E[Executar Pesquisas]
     E --> F[Finalizar/Interromper]
 ```
+# 📥 Download do Auto Pesquisa
+
+## Versão Atual
+**v1.0.0** - [Baixar Executável (.exe)](https://www.mediafire.com/file/90v1a0jv8mtkgpu/pesquisas_automaticas.exe/file)
+
 ## 🤝 Como Contribuir
 
 Contribuições são extremamente bem-vindas! Seguimos um fluxo simples:
